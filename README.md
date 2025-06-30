@@ -13,13 +13,8 @@ HC-05 Bluetooth 모듈
 
 ## 📐 시스템 구조
 
-[로봇 조작자 GUI/앱]
-        ↓ Bluetooth
-   [HC-05 모듈 (COM)]
-        ↓ Serial
-  [OpenRB-150 보드]
-        ↓ DXL TTL
- [Dynamixel 모터]
+<pre><code> [로봇 조작자 GUI/앱] ↓ Bluetooth [HC-05 모듈 (COM)] ↓ Serial [OpenRB-150 보드] ↓ DXL TTL [Dynamixel 모터] </code></pre>
+
 ### 📘 매뉴얼
 자세한 하드웨어 연결 방식, GUI 사용법, 시스템 설정 등은 아래 링크의 Figma 매뉴얼을 참고하세요:
 
