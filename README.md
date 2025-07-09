@@ -4,9 +4,9 @@
 Leader Manipulator와 Follower Manipulator로 구성되어 있습니다.
 
 ## 🔧 사용된 하드웨어
-![OpenRB-150 보드](https://www.robotis.com/data/item/1598931587/thumb-902-0183-000_600x600.jpg)
+![OpenRB-150 보드]
 
-![Dynamixel XL-330, XC-330](https://www.robotis.com/shop/item.php?it_id=902-0163-000)
+![Dynamixel XL-330, XC-330]
 Dynamixel XL-330, XC-330 시리즈
 
 HC-05 Bluetooth 모듈
